@@ -40,7 +40,7 @@
 - Transformed complex JSON to SQL schema and built dashboards for insights
 - Streamlit interface with interactive visualizations  
 **Tech:** SQL, API Integration, Sports Analytics, Streamlit  
-🔗 [View Project](https://github.com/Muralidharan-ramachandran/Tennis-Analytics)
+🔗 [View Project](https://github.com/Muralidharan-ramachandran/DS_Projects/tree/main/Game_analytics)
 
 ---
 
