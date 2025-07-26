@@ -22,7 +22,7 @@
 - Preprocessed 5,000+ images for training using augmentation and normalization
 - Deployed via Streamlit for real-time predictions  
 **Tech:** CNN, Deep Learning, Transfer Learning, Streamlit  
-🔗 [View Project](https://github.com/Muralidharan-ramachandran/Pneumonia-Detection)
+🔗 [View Project](https://github.com/Muralidharan-ramachandran/DS_Projects/tree/main/Pneumonia_detection_Project)
 
 ---
 
