@@ -31,7 +31,7 @@
 - Classified visit modes and predicted ratings using Random Forest and XGBoost (F1 score: 0.85)
 - Streamlit app with real-time predictions and visualizations  
 **Tech:** EDA, ML, SQL, Streamlit, Recommender Systems  
-🔗 [View Project](https://github.com/Muralidharan-ramachandran/Tourism-Analytics)
+🔗 [View Project](https://github.com/Muralidharan-ramachandran/DS_Projects/tree/main/Tourism%20Experience%20Analytics)
 
 ---
 
