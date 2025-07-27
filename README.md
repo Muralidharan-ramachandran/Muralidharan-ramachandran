@@ -5,15 +5,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Languages & Tools:** Python, SQL  
-- **Libraries & Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, Keras  
-- **Concepts:** Machine Learning, Deep Learning, Data Science, EDA, Model Evaluation  
-- **Other Tools:** Streamlit, Jupyter, Git, API Integration
-
----
-
 ## 📂 Featured Projects
 
 ### 🩺 Pneumonia Detection from Chest X-Ray Images using CNN
@@ -43,6 +34,25 @@
 🔗 [View Project](https://github.com/Muralidharan-ramachandran/DS_Projects/tree/main/Game_analytics)
 
 ---
+
+
+## 🛠️ Skills & Tools
+
+- **Languages & Tools:** Python, SQL  
+- **Libraries & Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, Keras  
+- **Concepts:** Machine Learning, Deep Learning, Data Science, EDA, Model Evaluation  
+- **Other Tools:** Streamlit, Jupyter, Git, API Integration
+
+---
+## 📚 Education
+🎓 B.Tech in Instrumentation and Control Engineering
+National Institute of Technology, Tiruchirappalli (NIT Trichy)
+Year of Graduation: 2018
+
+🎓 Master Data Science Program
+GUVI – An IIT-Madras Incubated EdTech Company
+Completed comprehensive training in Python, SQL, Machine Learning, Deep Learning, EDA, and Data Visualization.
+
 
 ## 📫 Let's Connect
 
