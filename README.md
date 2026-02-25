@@ -7,6 +7,18 @@
 
 ## 📂 Featured Projects
 
+### 🏦 Face Recognition–Based KYC Verification System  
+
+> A deep learning–powered identity verification system that compares an ID card image with a live selfie for secure user authentication.  
+
+- Implemented face verification using ArcFace model for similarity matching  
+- Captured live selfie through device camera and processed images for comparison  
+- Built an interactive web interface for real-time identity verification  
+
+**Tech:** Deep Learning, Face Recognition, Streamlit, Computer Vision  
+
+🔗 [View Project](https://github.com/Muralidharan-ramachandran/KYC_Verification)
+
 ### 🩺 Pneumonia Detection from Chest X-Ray Images using CNN
 > A deep learning model to detect pneumonia from X-ray images using CNN and transfer learning.
 - Achieved 92%+ accuracy and 95% recall
