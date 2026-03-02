@@ -7,7 +7,7 @@
 
 ## 📂 Featured Projects
 
-### 🏦 Face Recognition–Based KYC Verification System  
+### 📷🖼️ Face Recognition–Based KYC Verification System  
 
 > A deep learning–powered identity verification system that compares an ID card image with a live selfie for secure user authentication.  
 
