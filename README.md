@@ -51,7 +51,7 @@
 ## 🛠️ Skills & Tools
 
 - **Languages & Tools:** Python, SQL  
-- **Libraries & Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, Keras  
+- **Libraries & Frameworks:** Pandas, NumPy, Pyspark, scikit-learn, TensorFlow, Keras  
 - **Concepts:** Machine Learning, Deep Learning, Data Science, EDA, Model Evaluation  
 - **Other Tools:** Streamlit, Jupyter, Git, API Integration
 
