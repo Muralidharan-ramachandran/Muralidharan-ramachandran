@@ -7,6 +7,29 @@
 
 ## 📂 Featured Projects
 
+### 🍳 VoiceBotChef  
+#### *A Local Voice-Enabled Vectorless RAG Cooking Assistant*
+
+
+  <b>🎤 Speak your recipe question → 📚 Retrieve from cookbook PDF → 🤖 Generate/Read answer → 🔊 Hear the response</b>
+</p>
+
+---
+
+#### ✨ Overview
+
+**VoiceBotChef** is a **local AI-powered voice cooking assistant** that answers recipe-related questions from a **South Indian recipe book PDF** using **vectorless retrieval (BM25)** and optional **local LLM generation via Ollama**.
+
+It is designed for a **hands-free cooking experience**, allowing users to ask questions like:
+
+- *"How do I make dosa?"*
+- *"Tell me the recipe for rasam"*
+- *"What ingredients are needed for sambar?"*
+
+The bot listens through the microphone, retrieves the most relevant recipe from the cookbook, optionally refines the response with a lightweight local LLM, and then **speaks the answer aloud**.
+
+🔗 [View Project](https://github.com/Muralidharan-ramachandran/RAG-voice-BotChef)
+
 ### 📷🖼️ Face Recognition–Based KYC Verification System  
 
 > A deep learning–powered identity verification system that compares an ID card image with a live selfie for secure user authentication.  
